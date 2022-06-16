@@ -1,3 +1,5 @@
+"@author: Muhammed Enes KÜTÜK"
+
 def sifreli(metin, anahtar):
     sifreliMetin= ""
     for i in metin:
